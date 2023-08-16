@@ -26,6 +26,9 @@ header {
 h1 {
     color: black;
 }
+i{
+    color:white;
+}
 #header-text>p {
     width: 300px;
     color: black;
